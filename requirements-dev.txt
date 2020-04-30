@@ -1,4 +1,4 @@
-numpy>=1.15
+numpy==1.15.4
 python-dateutil>=2.5.0
 pytz
 asv
